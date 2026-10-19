@@ -1,6 +1,6 @@
 # CSV Read - IMDb Top 1000 Movies
 
-Day 11 Practice - Reading CSV with Pandas
+ Practice - Reading CSV with Pandas
 
 ### Dataset
 imdb-top-1000.csv - 1000 rows, 10 columns
